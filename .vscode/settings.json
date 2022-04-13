@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 17,
+    "editor.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeLensFontFamily": "Jetbrains Mono"
+}
